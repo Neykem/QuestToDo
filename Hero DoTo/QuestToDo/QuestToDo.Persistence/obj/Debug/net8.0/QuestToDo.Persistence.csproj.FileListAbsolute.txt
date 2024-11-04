@@ -1,0 +1,16 @@
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Persistence\obj\Debug\net8.0\QuestToDo.Persistence.csproj.AssemblyReference.cache
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Persistence\obj\Debug\net8.0\QuestToDo.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Persistence\obj\Debug\net8.0\QuestToDo.Persistence.AssemblyInfoInputs.cache
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Persistence\obj\Debug\net8.0\QuestToDo.Persistence.AssemblyInfo.cs
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Persistence\obj\Debug\net8.0\QuestToDo.Persistence.csproj.CoreCompileInputs.cache
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Persistence\obj\Debug\net8.0\QuestToDo.Persistence.sourcelink.json
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Persistence\bin\Debug\net8.0\QuestToDo.Persistence.deps.json
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Persistence\bin\Debug\net8.0\QuestToDo.Persistence.dll
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Persistence\bin\Debug\net8.0\QuestToDo.Persistence.pdb
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Persistence\bin\Debug\net8.0\QuestToDo.Domain.dll
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Persistence\bin\Debug\net8.0\QuestToDo.Domain.pdb
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Persistence\obj\Debug\net8.0\QuestToD.3A19F409.Up2Date
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Persistence\obj\Debug\net8.0\QuestToDo.Persistence.dll
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Persistence\obj\Debug\net8.0\refint\QuestToDo.Persistence.dll
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Persistence\obj\Debug\net8.0\QuestToDo.Persistence.pdb
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Persistence\obj\Debug\net8.0\ref\QuestToDo.Persistence.dll

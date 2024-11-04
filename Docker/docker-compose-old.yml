@@ -1,0 +1,90 @@
+version: '3.7'
+services:
+  # rosgrant-elasticsearch
+  rosgrant-elasticsearch:
+    image: elasticsearch:5.6.8-alpine
+    container_name: rosgrant-elasticsearch
+    networks:
+        - rosgrant
+    ports:
+        - 9200:9200
+        - 9300:9300
+    environment:
+        - discovery.type=single-node
+    restart: always
+
+  # rosgrant-redis
+  rosgrant-redis:
+    image: redis:7.0
+    container_name: rosgrant-redis
+    networks:
+        - rosgrant
+    ports:
+        - 6379:6379
+    volumes:
+        - redis-data:/data
+    restart: always
+
+  # rosgrant-rabbit
+  rosgrant-rabbit:
+    image: rabbitmq:management
+    container_name: rosgrant-rabbitmq
+    networks:
+        - rosgrant
+    ports:
+        - 15672:15672
+        - 5672:5672
+        - 25672:25672
+    volumes:
+        - rabbitmq-schema:/var/lib/rabbitmq/schema 
+        - rabbitmq-mnesia:/var/lib/rabbitmq/mnesia 
+        - rabbitmq-config:/var/lib/rabbitmq/config 
+    restart: always
+
+  # rosgrant-identity
+  rosgrant-identity:
+    image: dockerhub.myrussia.team/root/rosgrant-identityserver:staging
+    container_name: rosgrant-identity
+    networks:
+        - rosgrant
+    ports:
+        - 5011:80
+    environment:
+        ASPNETCORE_ENVIRONMENT: Development
+        ConnectionStrings__DefaultConnection: "Server=10.30.44.156;Database=v.basharin-rosgrantdb-identity-prod;user id=v.basharin;password=i23erXhLQu9SZie;Connection Timeout=100;"
+        RabbitSettings__RabbitHost: rosgrant-rabbitmq
+        RedisSettings__RedisServer: rosgrant-redis
+    depends_on:
+        - rosgrant-redis
+        - rosgrant-rabbit
+    restart: always
+   
+  # rosgrant-mvc
+  rosgrant-mvc:
+    image: dockerhub.myrussia.team/root/rosgrant-mvc:staging
+    container_name: rosgrant-mvc
+    networks:
+        - rosgrant
+    ports:
+        - 5005:80
+    environment:
+        ASPNETCORE_ENVIRONMENT: Development
+        ConnectionStrings__DefaultConnection: "Server=10.30.44.156;Database=v.basharin-rosgrantdb-public-prod;user id=v.basharin;password=i23erXhLQu9SZie;Connection Timeout=100;"
+        RabbitSettings__RabbitHost: rosgrant-rabbitmq
+        RedisSettings__RedisServer: rosgrant-redis
+    depends_on:
+        - rosgrant-redis
+        - rosgrant-rabbit
+    restart: always
+    
+networks:
+    rosgrant:
+
+volumes:
+    rabbitmq-schema: 
+    rabbitmq-mnesia:
+    rabbitmq-config:
+    mssql-data:
+    redis-data:
+    uploaded-files:
+    nginx-logs:

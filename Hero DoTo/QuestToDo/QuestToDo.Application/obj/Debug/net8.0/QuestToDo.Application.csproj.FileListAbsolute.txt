@@ -1,0 +1,12 @@
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Application\bin\Debug\net8.0\QuestToDo.Application.deps.json
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Application\bin\Debug\net8.0\QuestToDo.Application.dll
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Application\bin\Debug\net8.0\QuestToDo.Application.pdb
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Application\obj\Debug\net8.0\QuestToDo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Application\obj\Debug\net8.0\QuestToDo.Application.AssemblyInfoInputs.cache
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Application\obj\Debug\net8.0\QuestToDo.Application.AssemblyInfo.cs
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Application\obj\Debug\net8.0\QuestToDo.Application.csproj.CoreCompileInputs.cache
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Application\obj\Debug\net8.0\QuestToDo.Application.sourcelink.json
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Application\obj\Debug\net8.0\QuestToDo.Application.dll
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Application\obj\Debug\net8.0\refint\QuestToDo.Application.dll
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Application\obj\Debug\net8.0\QuestToDo.Application.pdb
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Application\obj\Debug\net8.0\ref\QuestToDo.Application.dll

@@ -1,0 +1,13 @@
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Infrustructure\bin\Debug\net8.0\QuestToDo.Infrustructure.deps.json
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Infrustructure\bin\Debug\net8.0\QuestToDo.Infrustructure.dll
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Infrustructure\bin\Debug\net8.0\QuestToDo.Infrustructure.pdb
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Infrustructure\obj\Debug\net8.0\QuestToDo.Infrustructure.csproj.AssemblyReference.cache
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Infrustructure\obj\Debug\net8.0\QuestToDo.Infrustructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Infrustructure\obj\Debug\net8.0\QuestToDo.Infrustructure.AssemblyInfoInputs.cache
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Infrustructure\obj\Debug\net8.0\QuestToDo.Infrustructure.AssemblyInfo.cs
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Infrustructure\obj\Debug\net8.0\QuestToDo.Infrustructure.csproj.CoreCompileInputs.cache
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Infrustructure\obj\Debug\net8.0\QuestToDo.Infrustructure.sourcelink.json
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Infrustructure\obj\Debug\net8.0\QuestToDo.Infrustructure.dll
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Infrustructure\obj\Debug\net8.0\refint\QuestToDo.Infrustructure.dll
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Infrustructure\obj\Debug\net8.0\QuestToDo.Infrustructure.pdb
+C:\home\Project\other\Hero DoTo\QuestToDo\QuestToDo.Infrustructure\obj\Debug\net8.0\ref\QuestToDo.Infrustructure.dll

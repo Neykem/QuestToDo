@@ -1,0 +1,44 @@
+version: '3.7'
+services:
+  # rosgrant-redis
+  rosgrant-redis:
+    image: redis:7.0
+    mem_limit: 512m
+    mem_reservation: 256m
+    container_name: rosgrant-redis-bcp
+    networks:
+        - rosgrant
+    ports:
+        - 6379:6379
+    volumes:
+        - redis-data:/data
+    restart: always
+
+  # rosgrant-rabbit
+  rosgrant-rabbit:
+    image: rabbitmq:management
+    mem_limit: 512m
+    mem_reservation: 256m
+    container_name: rosgrant-rabbitmq-bcp
+    networks:
+        - rosgrant
+    ports:
+        - 15672:15672
+        - 5672:5672
+        - 25672:25672
+    volumes:
+        - rabbitmq-schema:/var/lib/rabbitmq/schema 
+        - rabbitmq-mnesia:/var/lib/rabbitmq/mnesia 
+        - rabbitmq-config:/var/lib/rabbitmq/config 
+    restart: always
+networks:
+    rosgrant:
+
+volumes:
+    rabbitmq-schema: 
+    rabbitmq-mnesia:
+    rabbitmq-config:
+    mssql-data:
+    redis-data:
+    uploaded-files:
+    nginx-logs:
