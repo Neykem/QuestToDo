@@ -1,14 +1,10 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-namespace QuestToDo.Domain.Entities.Base
+﻿namespace QuestToDo.Domain.Entities.Base
 {
-	public abstract class AbstractEntityWithId<T> : IBaseEntity
-	{
-		public required T Id { get; set; }
-		[DataType(DataType.DateTime)]
-		public DateTime CreatedDate { get; set; }
-
-		[DataType(DataType.DateTime)]
-		public DateTime? ModifiedDate { get; set; }
-	}
+    public abstract class AbstractEntityWithId<T> : IBaseEntity
+    {
+        public required object Id { get; set; }
+        public  DateTime CreatedDate { get; set; }
+        public  DateTime? ModifiedDate { get; set; }
+        public  DateTime? DeletedDate { get; set; }
+    }
 }

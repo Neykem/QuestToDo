@@ -9,9 +9,10 @@ namespace QuestToDo.Persistence.Repo.Concrate
     /// Realization Read Only Repository with input context as TContext
     /// </summary>
     /// <typeparam name="TContext"></typeparam>
-    internal class ReadOnlyRepository<TContext> : IReadOnlyRepository where TContext : DbContext
+    internal class ReadOnlyRepository<TContext> : IReadOnlyRepository, IDisposable where TContext : DbContext
     {
         private readonly TContext _context;
+        private bool _disposed;
 
         public ReadOnlyRepository(
             TContext context)
@@ -49,5 +50,13 @@ namespace QuestToDo.Persistence.Repo.Concrate
         async Task<bool> IReadOnlyRepository.CheckOfExist<Entity>(
             Expression<Func<Entity, bool>>? filter, CancellationToken cancellationToken) 
                 => await CreateQuery(filter).AnyAsync(cancellationToken).ConfigureAwait(false);
+
+        public void Dispose()
+        {
+            if (_disposed)
+                return;
+
+            _disposed = true;
+        }
     }
 }

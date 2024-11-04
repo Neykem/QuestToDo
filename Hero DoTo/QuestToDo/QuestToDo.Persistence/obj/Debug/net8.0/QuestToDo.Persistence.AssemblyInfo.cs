@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuestToDo.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+727d999504b7c178b1e1672eb260bef68599e821")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75fa7afdf2a31de55fe9daa366d6e6b3920a2ac4")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuestToDo.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuestToDo.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

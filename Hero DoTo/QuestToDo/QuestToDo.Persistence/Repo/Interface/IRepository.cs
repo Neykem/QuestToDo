@@ -19,7 +19,9 @@ namespace QuestToDo.Persistence.Repo.Interface
 
         void Delete<Entity>(
             Entity entity,
-            CancellationToken cancellationToken = default);
+            bool hardDelete = false,
+            CancellationToken cancellationToken = default)
+            where Entity : class, IBaseEntity;
 
         Task Save(
             CancellationToken cancellationToken = default);

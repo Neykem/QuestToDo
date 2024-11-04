@@ -3,80 +3,84 @@
   "WorkspaceRootPath": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B8216B7A-2975-42FC-B0F9-46987C251124}|QuestToDo.Persistence\\QuestToDo.Persistence.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo.persistence\\repo\\concrate\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8216B7A-2975-42FC-B0F9-46987C251124}|QuestToDo.Persistence\\QuestToDo.Persistence.csproj|solutionrelative:questtodo.persistence\\repo\\concrate\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B8216B7A-2975-42FC-B0F9-46987C251124}|QuestToDo.Persistence\\QuestToDo.Persistence.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo.persistence\\repo\\concrate\\readonlyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8216B7A-2975-42FC-B0F9-46987C251124}|QuestToDo.Persistence\\QuestToDo.Persistence.csproj|solutionrelative:questtodo.persistence\\repo\\concrate\\readonlyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8216B7A-2975-42FC-B0F9-46987C251124}|QuestToDo.Persistence\\QuestToDo.Persistence.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo.persistence\\repo\\interface\\ireadonlyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8216B7A-2975-42FC-B0F9-46987C251124}|QuestToDo.Persistence\\QuestToDo.Persistence.csproj|solutionrelative:questtodo.persistence\\repo\\interface\\ireadonlyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo.domain\\entities\\base\\ibaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|solutionrelative:questtodo.domain\\entities\\base\\ibaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8216B7A-2975-42FC-B0F9-46987C251124}|QuestToDo.Persistence\\QuestToDo.Persistence.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo.persistence\\repo\\base\\baserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8216B7A-2975-42FC-B0F9-46987C251124}|QuestToDo.Persistence\\QuestToDo.Persistence.csproj|solutionrelative:questtodo.persistence\\repo\\base\\baserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8216B7A-2975-42FC-B0F9-46987C251124}|QuestToDo.Persistence\\QuestToDo.Persistence.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo.persistence\\repo\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8216B7A-2975-42FC-B0F9-46987C251124}|QuestToDo.Persistence\\QuestToDo.Persistence.csproj|solutionrelative:questtodo.persistence\\repo\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8216B7A-2975-42FC-B0F9-46987C251124}|QuestToDo.Persistence\\QuestToDo.Persistence.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo.persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8216B7A-2975-42FC-B0F9-46987C251124}|QuestToDo.Persistence\\QuestToDo.Persistence.csproj|solutionrelative:questtodo.persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo.domain\\entities\\base\\abstractentitywithid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|solutionrelative:questtodo.domain\\entities\\base\\abstractentitywithid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8216B7A-2975-42FC-B0F9-46987C251124}|QuestToDo.Persistence\\QuestToDo.Persistence.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo.persistence\\questtodo.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B8216B7A-2975-42FC-B0F9-46987C251124}|QuestToDo.Persistence\\QuestToDo.Persistence.csproj|solutionrelative:questtodo.persistence\\questtodo.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07BE6F95-D5E6-46FA-9849-385AB42B0135}|QuestToDo.Infrustructure\\QuestToDo.Infrustructure.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo.infrustructure\\questtodo.infrustructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{07BE6F95-D5E6-46FA-9849-385AB42B0135}|QuestToDo.Infrustructure\\QuestToDo.Infrustructure.csproj|solutionrelative:questtodo.infrustructure\\questtodo.infrustructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo.domain\\questtodo.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|solutionrelative:questtodo.domain\\questtodo.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{154F8618-563E-4CBD-B434-8215EC80A457}|QuestToDo\\QuestToDo.Api.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo\\questtodo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{154F8618-563E-4CBD-B434-8215EC80A457}|QuestToDo\\QuestToDo.Api.csproj|solutionrelative:questtodo\\questtodo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo.domain\\entities\\worktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|solutionrelative:questtodo.domain\\entities\\worktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo.domain\\entities\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|solutionrelative:questtodo.domain\\entities\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo.domain\\entities\\heroitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|solutionrelative:questtodo.domain\\entities\\heroitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo.domain\\entities\\enums\\heroitemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|solutionrelative:questtodo.domain\\entities\\enums\\heroitemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo.domain\\entities\\enums\\worktask\\taskpreorityenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|solutionrelative:questtodo.domain\\entities\\enums\\worktask\\taskpreorityenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo.domain\\entities\\enums\\worktask\\taskstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|solutionrelative:questtodo.domain\\entities\\enums\\worktask\\taskstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo.domain\\entities\\enums\\worktask\\taskcomplexityenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|solutionrelative:questtodo.domain\\entities\\enums\\worktask\\taskcomplexityenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo.domain\\entities\\base\\abstractentitywithid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|solutionrelative:questtodo.domain\\entities\\base\\abstractentitywithid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo.domain\\entities\\base\\ibaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|solutionrelative:questtodo.domain\\entities\\base\\ibaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo.domain\\entities\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|solutionrelative:questtodo.domain\\entities\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo.domain\\entities\\enums\\heroitemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|solutionrelative:questtodo.domain\\entities\\enums\\heroitemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8216B7A-2975-42FC-B0F9-46987C251124}|QuestToDo.Persistence\\QuestToDo.Persistence.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo.persistence\\repo\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8216B7A-2975-42FC-B0F9-46987C251124}|QuestToDo.Persistence\\QuestToDo.Persistence.csproj|solutionrelative:questtodo.persistence\\repo\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8216B7A-2975-42FC-B0F9-46987C251124}|QuestToDo.Persistence\\QuestToDo.Persistence.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo.persistence\\questtodo.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B8216B7A-2975-42FC-B0F9-46987C251124}|QuestToDo.Persistence\\QuestToDo.Persistence.csproj|solutionrelative:questtodo.persistence\\questtodo.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo.domain\\entities\\worktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|solutionrelative:questtodo.domain\\entities\\worktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|solutionrelative:questtodo.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo.domain\\entities\\enums\\worktask\\taskpreorityenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|solutionrelative:questtodo.domain\\entities\\enums\\worktask\\taskpreorityenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo.domain\\entities\\heroitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|solutionrelative:questtodo.domain\\entities\\heroitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo.domain\\entities\\enums\\worktask\\taskcomplexityenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|solutionrelative:questtodo.domain\\entities\\enums\\worktask\\taskcomplexityenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo.domain\\questtodo.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D8E9577-78D0-45EA-80E6-AB8EAAD9AC2F}|QuestToDo.Domain\\QuestToDo.Domain.csproj|solutionrelative:questtodo.domain\\questtodo.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8216B7A-2975-42FC-B0F9-46987C251124}|QuestToDo.Persistence\\QuestToDo.Persistence.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo.persistence\\repo\\interface\\ireadonlyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8216B7A-2975-42FC-B0F9-46987C251124}|QuestToDo.Persistence\\QuestToDo.Persistence.csproj|solutionrelative:questtodo.persistence\\repo\\interface\\ireadonlyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8216B7A-2975-42FC-B0F9-46987C251124}|QuestToDo.Persistence\\QuestToDo.Persistence.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo.persistence\\repo\\base\\baserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8216B7A-2975-42FC-B0F9-46987C251124}|QuestToDo.Persistence\\QuestToDo.Persistence.csproj|solutionrelative:questtodo.persistence\\repo\\base\\baserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8216B7A-2975-42FC-B0F9-46987C251124}|QuestToDo.Persistence\\QuestToDo.Persistence.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo.persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8216B7A-2975-42FC-B0F9-46987C251124}|QuestToDo.Persistence\\QuestToDo.Persistence.csproj|solutionrelative:questtodo.persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07BE6F95-D5E6-46FA-9849-385AB42B0135}|QuestToDo.Infrustructure\\QuestToDo.Infrustructure.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo.infrustructure\\questtodo.infrustructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{07BE6F95-D5E6-46FA-9849-385AB42B0135}|QuestToDo.Infrustructure\\QuestToDo.Infrustructure.csproj|solutionrelative:questtodo.infrustructure\\questtodo.infrustructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{154F8618-563E-4CBD-B434-8215EC80A457}|QuestToDo\\QuestToDo.Api.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo\\questtodo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{154F8618-563E-4CBD-B434-8215EC80A457}|QuestToDo\\QuestToDo.Api.csproj|solutionrelative:questtodo\\questtodo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{154F8618-563E-4CBD-B434-8215EC80A457}|QuestToDo\\QuestToDo.Api.csproj|c:\\home\\project\\other\\hero doto\\questtodo\\questtodo\\base\\appcontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -111,79 +115,123 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Persistence\\Repo\\Concrate\\Repository.cs",
+              "RelativeDocumentMoniker": "QuestToDo.Persistence\\Repo\\Concrate\\Repository.cs",
+              "ToolTip": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Persistence\\Repo\\Concrate\\Repository.cs",
+              "RelativeToolTip": "QuestToDo.Persistence\\Repo\\Concrate\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:20:05.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ReadOnlyRepository.cs",
               "DocumentMoniker": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Persistence\\Repo\\Concrate\\ReadOnlyRepository.cs",
               "RelativeDocumentMoniker": "QuestToDo.Persistence\\Repo\\Concrate\\ReadOnlyRepository.cs",
               "ToolTip": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Persistence\\Repo\\Concrate\\ReadOnlyRepository.cs",
               "RelativeToolTip": "QuestToDo.Persistence\\Repo\\Concrate\\ReadOnlyRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T11:06:55.765Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Persistence\\Repo\\Interface\\IRepository.cs",
-              "RelativeDocumentMoniker": "QuestToDo.Persistence\\Repo\\Interface\\IRepository.cs",
-              "ToolTip": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Persistence\\Repo\\Interface\\IRepository.cs",
-              "RelativeToolTip": "QuestToDo.Persistence\\Repo\\Interface\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T11:02:29.126Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IBaseEntity.cs",
-              "DocumentMoniker": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\Base\\IBaseEntity.cs",
-              "RelativeDocumentMoniker": "QuestToDo.Domain\\Entities\\Base\\IBaseEntity.cs",
-              "ToolTip": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\Base\\IBaseEntity.cs",
-              "RelativeToolTip": "QuestToDo.Domain\\Entities\\Base\\IBaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Title": "TaskPreorityEnum.cs",
+              "DocumentMoniker": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\Enums\\WorkTask\\TaskPreorityEnum.cs",
+              "RelativeDocumentMoniker": "QuestToDo.Domain\\Entities\\Enums\\WorkTask\\TaskPreorityEnum.cs",
+              "ToolTip": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\Enums\\WorkTask\\TaskPreorityEnum.cs",
+              "RelativeToolTip": "QuestToDo.Domain\\Entities\\Enums\\WorkTask\\TaskPreorityEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T10:50:56.931Z"
+              "WhenOpened": "2024-07-26T15:35:12.994Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IReadOnlyRepository.cs",
-              "DocumentMoniker": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Persistence\\Repo\\Interface\\IReadOnlyRepository.cs",
-              "RelativeDocumentMoniker": "QuestToDo.Persistence\\Repo\\Interface\\IReadOnlyRepository.cs",
-              "ToolTip": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Persistence\\Repo\\Interface\\IReadOnlyRepository.cs",
-              "RelativeToolTip": "QuestToDo.Persistence\\Repo\\Interface\\IReadOnlyRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAVAAAA",
+              "DocumentIndex": 3,
+              "Title": "TaskStatusEnum.cs",
+              "DocumentMoniker": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\Enums\\WorkTask\\TaskStatusEnum.cs",
+              "RelativeDocumentMoniker": "QuestToDo.Domain\\Entities\\Enums\\WorkTask\\TaskStatusEnum.cs",
+              "ToolTip": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\Enums\\WorkTask\\TaskStatusEnum.cs",
+              "RelativeToolTip": "QuestToDo.Domain\\Entities\\Enums\\WorkTask\\TaskStatusEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T10:44:07.362Z"
+              "WhenOpened": "2024-07-27T07:18:31.173Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "TaskComplexityEnum.cs",
-              "DocumentMoniker": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\Enums\\WorkTask\\TaskComplexityEnum.cs",
-              "RelativeDocumentMoniker": "QuestToDo.Domain\\Entities\\Enums\\WorkTask\\TaskComplexityEnum.cs",
-              "ToolTip": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\Enums\\WorkTask\\TaskComplexityEnum.cs",
-              "RelativeToolTip": "QuestToDo.Domain\\Entities\\Enums\\WorkTask\\TaskComplexityEnum.cs",
+              "DocumentIndex": 7,
+              "Title": "HeroItemType.cs",
+              "DocumentMoniker": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\Enums\\HeroItemType.cs",
+              "RelativeDocumentMoniker": "QuestToDo.Domain\\Entities\\Enums\\HeroItemType.cs",
+              "ToolTip": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\Enums\\HeroItemType.cs",
+              "RelativeToolTip": "QuestToDo.Domain\\Entities\\Enums\\HeroItemType.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T15:31:35.488Z"
+              "WhenOpened": "2024-07-26T15:48:04.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\Hero.cs",
+              "RelativeDocumentMoniker": "QuestToDo.Domain\\Entities\\Hero.cs",
+              "ToolTip": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\Hero.cs",
+              "RelativeToolTip": "QuestToDo.Domain\\Entities\\Hero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T15:54:14.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HeroItem.cs",
+              "DocumentMoniker": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\HeroItem.cs",
+              "RelativeDocumentMoniker": "QuestToDo.Domain\\Entities\\HeroItem.cs",
+              "ToolTip": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\HeroItem.cs",
+              "RelativeToolTip": "QuestToDo.Domain\\Entities\\HeroItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T15:44:42.321Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "QuestToDo.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "QuestToDo.Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T15:37:39.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "WorkTask.cs",
               "DocumentMoniker": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\WorkTask.cs",
               "RelativeDocumentMoniker": "QuestToDo.Domain\\Entities\\WorkTask.cs",
               "ToolTip": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\WorkTask.cs",
               "RelativeToolTip": "QuestToDo.Domain\\Entities\\WorkTask.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T15:12:42.86Z"
+              "WhenOpened": "2024-07-26T15:12:42.86Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "QuestToDo.Persistence.csproj",
               "DocumentMoniker": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Persistence\\QuestToDo.Persistence.csproj",
               "RelativeDocumentMoniker": "QuestToDo.Persistence\\QuestToDo.Persistence.csproj",
@@ -191,11 +239,64 @@
               "RelativeToolTip": "QuestToDo.Persistence\\QuestToDo.Persistence.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-22T15:16:52.187Z"
+              "WhenOpened": "2024-06-22T15:16:52.187Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Persistence\\Repo\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "QuestToDo.Persistence\\Repo\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Persistence\\Repo\\Interface\\IRepository.cs",
+              "RelativeToolTip": "QuestToDo.Persistence\\Repo\\Interface\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:02:29.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBaseEntity.cs",
+              "DocumentMoniker": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\Base\\IBaseEntity.cs",
+              "RelativeDocumentMoniker": "QuestToDo.Domain\\Entities\\Base\\IBaseEntity.cs",
+              "ToolTip": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\Base\\IBaseEntity.cs",
+              "RelativeToolTip": "QuestToDo.Domain\\Entities\\Base\\IBaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T10:50:56.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AbstractEntityWithId.cs",
+              "DocumentMoniker": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\Base\\AbstractEntityWithId.cs",
+              "RelativeDocumentMoniker": "QuestToDo.Domain\\Entities\\Base\\AbstractEntityWithId.cs",
+              "ToolTip": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\Base\\AbstractEntityWithId.cs",
+              "RelativeToolTip": "QuestToDo.Domain\\Entities\\Base\\AbstractEntityWithId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T07:03:22.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TaskComplexityEnum.cs",
+              "DocumentMoniker": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\Enums\\WorkTask\\TaskComplexityEnum.cs",
+              "RelativeDocumentMoniker": "QuestToDo.Domain\\Entities\\Enums\\WorkTask\\TaskComplexityEnum.cs",
+              "ToolTip": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\Enums\\WorkTask\\TaskComplexityEnum.cs",
+              "RelativeToolTip": "QuestToDo.Domain\\Entities\\Enums\\WorkTask\\TaskComplexityEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T15:31:35.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "QuestToDo.Domain.csproj",
               "DocumentMoniker": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\QuestToDo.Domain.csproj",
               "RelativeDocumentMoniker": "QuestToDo.Domain\\QuestToDo.Domain.csproj",
@@ -203,35 +304,12 @@
               "RelativeToolTip": "QuestToDo.Domain\\QuestToDo.Domain.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-22T15:13:38.184Z"
+              "WhenOpened": "2024-06-22T15:13:38.184Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "QuestToDo.Api.csproj",
-              "DocumentMoniker": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo\\QuestToDo.Api.csproj",
-              "RelativeDocumentMoniker": "QuestToDo\\QuestToDo.Api.csproj",
-              "ToolTip": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo\\QuestToDo.Api.csproj",
-              "RelativeToolTip": "QuestToDo\\QuestToDo.Api.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-22T14:48:27.723Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Persistence\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "QuestToDo.Persistence\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Persistence\\ApplicationDbContext.cs",
-              "RelativeToolTip": "QuestToDo.Persistence\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T15:20:06.255Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 16,
               "Title": "BaseRepo.cs",
               "DocumentMoniker": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Persistence\\Repo\\Base\\BaseRepo.cs",
               "RelativeDocumentMoniker": "QuestToDo.Persistence\\Repo\\Base\\BaseRepo.cs",
@@ -243,67 +321,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "TaskPreorityEnum.cs",
-              "DocumentMoniker": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\Enums\\WorkTask\\TaskPreorityEnum.cs",
-              "RelativeDocumentMoniker": "QuestToDo.Domain\\Entities\\Enums\\WorkTask\\TaskPreorityEnum.cs",
-              "ToolTip": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\Enums\\WorkTask\\TaskPreorityEnum.cs",
-              "RelativeToolTip": "QuestToDo.Domain\\Entities\\Enums\\WorkTask\\TaskPreorityEnum.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T15:35:12.994Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AbstractEntityWithId.cs",
-              "DocumentMoniker": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\Base\\AbstractEntityWithId.cs",
-              "RelativeDocumentMoniker": "QuestToDo.Domain\\Entities\\Base\\AbstractEntityWithId.cs",
-              "ToolTip": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\Base\\AbstractEntityWithId.cs",
-              "RelativeToolTip": "QuestToDo.Domain\\Entities\\Base\\AbstractEntityWithId.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T07:03:22.769Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "QuestToDo.Domain\\Entities\\User.cs",
-              "ToolTip": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\User.cs",
-              "RelativeToolTip": "QuestToDo.Domain\\Entities\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "QuestToDo.Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "QuestToDo.Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T15:37:39.097Z"
+              "WhenOpened": "2024-06-22T15:20:06.255Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "HeroItem.cs",
-              "DocumentMoniker": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\HeroItem.cs",
-              "RelativeDocumentMoniker": "QuestToDo.Domain\\Entities\\HeroItem.cs",
-              "ToolTip": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\HeroItem.cs",
-              "RelativeToolTip": "QuestToDo.Domain\\Entities\\HeroItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T15:44:42.321Z"
+              "DocumentIndex": 19,
+              "Title": "QuestToDo.Api.csproj",
+              "DocumentMoniker": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo\\QuestToDo.Api.csproj",
+              "RelativeDocumentMoniker": "QuestToDo\\QuestToDo.Api.csproj",
+              "ToolTip": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo\\QuestToDo.Api.csproj",
+              "RelativeToolTip": "QuestToDo\\QuestToDo.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-22T14:48:27.723Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "HeroItemType.cs",
-              "DocumentMoniker": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\Enums\\HeroItemType.cs",
-              "RelativeDocumentMoniker": "QuestToDo.Domain\\Entities\\Enums\\HeroItemType.cs",
-              "ToolTip": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\Enums\\HeroItemType.cs",
-              "RelativeToolTip": "QuestToDo.Domain\\Entities\\Enums\\HeroItemType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "DocumentIndex": 15,
+              "Title": "IReadOnlyRepository.cs",
+              "DocumentMoniker": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Persistence\\Repo\\Interface\\IReadOnlyRepository.cs",
+              "RelativeDocumentMoniker": "QuestToDo.Persistence\\Repo\\Interface\\IReadOnlyRepository.cs",
+              "ToolTip": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Persistence\\Repo\\Interface\\IReadOnlyRepository.cs",
+              "RelativeToolTip": "QuestToDo.Persistence\\Repo\\Interface\\IReadOnlyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T15:48:04.4Z"
+              "WhenOpened": "2024-11-04T10:44:07.362Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "QuestToDo.Infrustructure.csproj",
               "DocumentMoniker": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Infrustructure\\QuestToDo.Infrustructure.csproj",
               "RelativeDocumentMoniker": "QuestToDo.Infrustructure\\QuestToDo.Infrustructure.csproj",
@@ -315,31 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Hero.cs",
-              "DocumentMoniker": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\Hero.cs",
-              "RelativeDocumentMoniker": "QuestToDo.Domain\\Entities\\Hero.cs",
-              "ToolTip": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\Hero.cs",
-              "RelativeToolTip": "QuestToDo.Domain\\Entities\\Hero.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T15:54:14.808Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "TaskStatusEnum.cs",
-              "DocumentMoniker": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\Enums\\WorkTask\\TaskStatusEnum.cs",
-              "RelativeDocumentMoniker": "QuestToDo.Domain\\Entities\\Enums\\WorkTask\\TaskStatusEnum.cs",
-              "ToolTip": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo.Domain\\Entities\\Enums\\WorkTask\\TaskStatusEnum.cs",
-              "RelativeToolTip": "QuestToDo.Domain\\Entities\\Enums\\WorkTask\\TaskStatusEnum.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T07:18:31.173Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "AppControllerBase.cs",
               "DocumentMoniker": "C:\\home\\Project\\other\\Hero DoTo\\QuestToDo\\QuestToDo\\Base\\AppControllerBase.cs",
               "RelativeDocumentMoniker": "QuestToDo\\Base\\AppControllerBase.cs",
